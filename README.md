@@ -1,5 +1,9 @@
 ёёё
 ```
+    Лишь истратив все токены до конца, мы обретаем свободу
+```
+ёёё
+```
     holy shit, how did the attackers find a large enough uptime window to get in?
 ```
 ёёё
